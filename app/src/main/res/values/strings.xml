@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">RandomUserRecViewMvvm</string>
+    <string name="con_warr">Connection Warning</string>
+    <string name="open_network_settings">Open Network settings</string>
+    <string name="connection_error">Connection error , please turn on internet connection</string>
 </resources>
